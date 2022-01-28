@@ -1,0 +1,9 @@
+{
+    "student_1": {
+        "name": "Siam",
+        "age": 13,
+        "class": 8,
+        "address": "Khulna",
+        "country": "Bangladesh"
+    }
+}
