@@ -1,9 +1,6 @@
 {
-    "student_1": {
-        "name": "Rasma",
-        "age": 32,
-        "class": false,
-        "address": "Khulna",
-        "country": "Bangladesh"
-    }
+    "name": "Mahia",
+    "age": 13,
+    "class": 8,
+    "country": "Bangladesh"
 }
